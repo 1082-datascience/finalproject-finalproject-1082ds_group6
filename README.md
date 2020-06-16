@@ -76,6 +76,5 @@ Rscript code/1072_datascience_FP_G6.R
 * Related publications
   *  https://jmyao17.github.io/Kaggle/California_Housing_Prices.html
   *  https://rpubs.com/ablythe/520912
-  *  
 
 
