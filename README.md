@@ -5,7 +5,7 @@
 * 劉書傳 108971017 
 
 ### Goal
-Predict the housing price of California in 1990
+Predict the housing price of California in 1990.
 
 ### Demo 
 You should provide an example commend to reproduce your result
@@ -33,15 +33,21 @@ Rscript code/your_script.R --input data/training --output results/performance.ts
 ### code
 
 * Which method do you use?
+  * Linear regression / Lasso / Ridge / Elastic net 
+  * SVM / RF / GBT / Stacking
 * What is a null model for comparison?
+  * Linear regression with no regressor.
 * How do your perform evaluation? ie. Cross-validation, or extra separated data
+  * k-fold
 
 ### results
 
-* Which metric do you use 
-  * precision, recall, R-square
+* Which metric do you use ?
+  * MAPE
 * Is your improvement significant?
+  * Yes !
 * What is the challenge part of your project?
+  * Tuning
 
 ## Reference
 * Code/implementation which you include/reference (__You should indicate in your presentation if you use code for others. Otherwise, cheating will result in 0 score for final project.__)
