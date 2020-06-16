@@ -9,7 +9,7 @@ Predict the housing price of California in 1990.
 
 ### Demo 
 You should provide an example commend to reproduce your result
-```R
+``` text
 Rscript code/1072_datascience_FP_G6.R
 ```
 * any on-line visualization
