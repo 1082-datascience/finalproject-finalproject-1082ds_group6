@@ -76,5 +76,10 @@ Rscript code/1072_datascience_FP_G6.R
 * Related publications
   *  https://jmyao17.github.io/Kaggle/California_Housing_Prices.html
   *  https://rpubs.com/ablythe/520912
+  *  [In a random forest, is larger %IncMSE better or worse? (2016).](https://bit.ly/2BeuUAR
+  *  Lander, J. P. (2017). R for Everyone: Advanced Analytics and Graphics, 2nd Edition.
+  *  Ozdemir, S., Susarla, D. (2018). Feature Engineering Made Easy.
+  *  Ariga, M., Nakayama, S., Nishibayashi, T. (2018). Machine Learning at Work
+
 
 
