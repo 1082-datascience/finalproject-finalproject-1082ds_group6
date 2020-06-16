@@ -45,7 +45,7 @@ Rscript code/your_script.R --input data/training --output results/performance.ts
 * Which metric do you use ?
   * MAPE
 * Is your improvement significant?
-  * Yes !
+  * Yes ! We improve MAPE from 1.84 to 1.76
 * What is the challenge part of your project?
   * Tuning
 
