@@ -10,7 +10,7 @@ Predict the housing price of California in 1990.
 ### Demo 
 You should provide an example commend to reproduce your result
 ```R
-Rscript code/your_script.R --input data/training --output results/performance.tsv
+Rscript code/1072_datascience_FP_G6.R
 ```
 * any on-line visualization
 
@@ -26,10 +26,23 @@ Rscript code/your_script.R --input data/training --output results/performance.ts
 
 * Source
 * Input format
+  * One file formatted with `.csv`
+  * Features of dataset:
+   * longitude: A measure of how far west a house is
+   * latitude: A measure of how far north a house is
+   * housing_median_age: Median age of a house within a block
+   * total_rooms: Total number of rooms within a block
+   * total_bedrooms: Total number of bedrooms within a block
+   * population: Total number of people residing within a block
+   * households: Total number of households, a group of people residing within a home unit, for a block
+   * median_income: Median income for households within a block of houses (measured in 10,000$)
+   * ocean_proximity: Location of the house
+   * median_house_value: Median house value for households within a block (measured in US Dollars)
+  
 * Any preprocessing?
   * Handle missing data
   * Scale value
-
+  
 ### code
 
 * Which method do you use?
