@@ -1,12 +1,11 @@
 # Title of your final project
 
 ### Group 6
-* 郭育丞, 107363015 
-* 劉書傳, 108971017 
-* name, student ID3
+* 郭育丞(Morton Kuo) 107363015 
+* 劉書傳 108971017 
 
 ### Goal
-A breif introduction about your project, i.e., what is your goal?
+Predict the housing price of California in 1990
 
 ### Demo 
 You should provide an example commend to reproduce your result
