@@ -48,7 +48,7 @@ Rscript code/1072_datascience_FP_G6.R
     * population_per_household
     * bedrooms_per_room 
     * rooms_per_household
-    ![](docs/images/correlation matrix.png)
+    ![](docs/images/correlation-matrix.png)
   
 ### code
 
