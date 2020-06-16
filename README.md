@@ -74,5 +74,8 @@ Rscript code/1072_datascience_FP_G6.R
 * Packages you use
   * mice, ggplot2, dplyr, gapminder, scales, hrbrthemes, viridis, ggcorrplot, rBayesianOptimization, randomForest, rpart, tidyverse, caret, pROC, regclass, adabag, alr4, DMwR, nnet,  
 * Related publications
+  *  https://jmyao17.github.io/Kaggle/California_Housing_Prices.html
+  *  https://rpubs.com/ablythe/520912
+  *  
 
 
