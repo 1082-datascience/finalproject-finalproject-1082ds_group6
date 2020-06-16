@@ -1,4 +1,4 @@
-# Title of your final project
+# California Housing Data (1990) on Kaggle
 
 ### Group 6
 * 郭育丞(Morton Kuo) 107363015 
@@ -43,7 +43,7 @@ Rscript code/1072_datascience_FP_G6.R
 * Any preprocessing?
   * Handle missing data
     * total_bedrooms has 207 missing value.
-      ![](/doc/images/total_bedrooms_missing.png)
+      ![](docs/images/total_bedrooms_missing.png)
   * Scale value
   
 ### code
