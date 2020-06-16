@@ -25,6 +25,7 @@ Rscript code/1072_datascience_FP_G6.R
 ### data
 
 * Source
+  * [California Housing Data (1990) of Kaggle](https://www.kaggle.com/harrywang/housing)
 * Input format
   * One file formatted with `.csv`
   * Features of dataset:
@@ -41,6 +42,8 @@ Rscript code/1072_datascience_FP_G6.R
   
 * Any preprocessing?
   * Handle missing data
+    * total_bedrooms has 207 missing value.
+      ![](doc/images/total_bedrooms_missing.png)
   * Scale value
   
 ### code
