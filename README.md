@@ -1,10 +1,9 @@
 # Title of your final project
 
-### Groups
-* name, student ID1
-* name, student ID2
+### Group 6
+* 郭育丞, 107363015 
+* 劉書傳, 108971017 
 * name, student ID3
-* ...
 
 ### Goal
 A breif introduction about your project, i.e., what is your goal?
