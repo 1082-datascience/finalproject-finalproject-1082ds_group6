@@ -45,6 +45,10 @@ Rscript code/1072_datascience_FP_G6.R
     * total_bedrooms has 207 missing value.
       ![](docs/images/total_bedrooms_missing.png)
   * Scale value
+    * population_per_household
+    * bedrooms_per_room 
+    * rooms_per_household
+
   
 ### code
 
